@@ -1,6 +1,4 @@
-# 🧠 Among Us Player Radar Dashboard
-
-Players with ≥100 games are listed first. Radar shows normalized performance out of 1000.
+# 🧠 SIDEMEN AMONG US RADAR STATS
 
 
 <table>
