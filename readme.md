@@ -1,6 +1,6 @@
 # 🧠 Among Us Player Radar Dashboard
 
-Players sorted by score. Stats on the left, radar chart on the right.
+Players sorted by score. Stats left, radar chart right.
 
 
 <table>
@@ -18,8 +18,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\JackSepticEye.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\JackSepticEye.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -40,8 +42,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Simon.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Simon.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -62,8 +66,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\WillNE.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\WillNE.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -84,8 +90,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Tobi.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Tobi.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -106,8 +114,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\MilkInABag.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\MilkInABag.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -128,8 +138,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Ethan.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Ethan.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -150,8 +162,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Josh.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Josh.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -172,8 +186,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\ChrisMD.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\ChrisMD.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -194,8 +210,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Kay.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Kay.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -216,8 +234,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Vik.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Vik.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -238,8 +258,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Joe_Weller.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Joe_Weller.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -260,8 +282,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\PieFace.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\PieFace.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -282,8 +306,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Harry.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Harry.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -304,8 +330,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\AB.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\AB.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -326,8 +354,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Fresh.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Fresh.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -348,8 +378,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Lazarbeam.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Lazarbeam.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -370,8 +402,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Ellum.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Ellum.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -392,8 +426,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\MaxFosh.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\MaxFosh.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -414,8 +450,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\MrBeast.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\MrBeast.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -436,8 +474,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\JJ.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\JJ.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -458,8 +498,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Muselk.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Muselk.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -480,8 +522,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\JME.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\JME.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -502,8 +546,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Viz.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Viz.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -524,8 +570,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Tubbo.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Tubbo.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -546,8 +594,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\DannyAarons.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\DannyAarons.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -568,8 +618,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Deji.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Deji.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -590,8 +642,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\ArthurTV.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\ArthurTV.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -612,8 +666,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Randolph.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Randolph.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -634,8 +690,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Lachlan.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Lachlan.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -656,8 +714,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Chandler.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Chandler.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -678,8 +738,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\TommyInnit.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\TommyInnit.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -700,8 +762,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Callux.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Callux.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -722,8 +786,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Ginge.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Ginge.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -744,8 +810,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\George_Clarkey.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\George_Clarkey.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -766,8 +834,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Pewdiepie.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Pewdiepie.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -788,8 +858,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Calfreezy.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Calfreezy.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -810,8 +882,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Karl.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Karl.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -832,8 +906,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Apex.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Apex.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -854,8 +930,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Ciaran.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Ciaran.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -876,8 +954,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Dream.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Dream.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -898,8 +978,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Finn.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Finn.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -920,8 +1002,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Theo.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Theo.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -942,8 +1026,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Wilbur.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Wilbur.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -964,8 +1050,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Chip.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Chip.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -986,8 +1074,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Liam.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Liam.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -1008,8 +1098,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Jarvis.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Jarvis.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -1030,8 +1122,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\AliA.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\AliA.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
@@ -1052,8 +1146,10 @@ Players sorted by score. Stats on the left, radar chart on the right.
 
 </pre>
 </td>
-<td>
-<img src="md_radar_images\Jynxzi.png" width="200"/>
+<td style="vertical-align: middle;">
+<div style="height: 160px;">
+    <img src="md_radar_images\Jynxzi.png" style="height: 100%;"/>
+</div>
 </td>
 </tr>
 </table>
